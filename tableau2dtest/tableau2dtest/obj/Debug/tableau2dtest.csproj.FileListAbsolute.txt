@@ -1,0 +1,6 @@
+C:\Users\v.rey\Documents\SharpDevelop Projects\tableau2dtest\tableau2dtest\bin\Debug\tableau2dtest.exe.config
+C:\Users\v.rey\Documents\SharpDevelop Projects\tableau2dtest\tableau2dtest\bin\Debug\tableau2dtest.exe
+C:\Users\v.rey\Documents\SharpDevelop Projects\tableau2dtest\tableau2dtest\bin\Debug\tableau2dtest.pdb
+C:\Users\v.rey\Documents\SharpDevelop Projects\tableau2dtest\tableau2dtest\obj\Debug\tableau2dtest.csprojResolveAssemblyReference.cache
+C:\Users\v.rey\Documents\SharpDevelop Projects\tableau2dtest\tableau2dtest\obj\Debug\tableau2dtest.exe
+C:\Users\v.rey\Documents\SharpDevelop Projects\tableau2dtest\tableau2dtest\obj\Debug\tableau2dtest.pdb
