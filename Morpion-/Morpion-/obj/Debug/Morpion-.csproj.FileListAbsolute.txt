@@ -4,3 +4,15 @@ C:\Users\v.rey\Documents\Morpion\Morpion-\Morpion-\Morpion-\bin\Debug\Morpion-.p
 C:\Users\v.rey\Documents\Morpion\Morpion-\Morpion-\Morpion-\obj\Debug\Morpion-.csprojResolveAssemblyReference.cache
 C:\Users\v.rey\Documents\Morpion\Morpion-\Morpion-\Morpion-\obj\Debug\Morpion-.exe
 C:\Users\v.rey\Documents\Morpion\Morpion-\Morpion-\Morpion-\obj\Debug\Morpion-.pdb
+D:\Morpion-\Morpion-\Morpion-\bin\Debug\Morpion-.exe.config
+D:\Morpion-\Morpion-\Morpion-\bin\Debug\Morpion-.exe
+D:\Morpion-\Morpion-\Morpion-\bin\Debug\Morpion-.pdb
+D:\Morpion-\Morpion-\Morpion-\obj\Debug\Morpion-.csprojResolveAssemblyReference.cache
+D:\Morpion-\Morpion-\Morpion-\obj\Debug\Morpion-.exe
+D:\Morpion-\Morpion-\Morpion-\obj\Debug\Morpion-.pdb
+E:\Morpion-\Morpion-\Morpion-\bin\Debug\Morpion-.exe.config
+E:\Morpion-\Morpion-\Morpion-\bin\Debug\Morpion-.exe
+E:\Morpion-\Morpion-\Morpion-\bin\Debug\Morpion-.pdb
+E:\Morpion-\Morpion-\Morpion-\obj\Debug\Morpion-.csprojResolveAssemblyReference.cache
+E:\Morpion-\Morpion-\Morpion-\obj\Debug\Morpion-.exe
+E:\Morpion-\Morpion-\Morpion-\obj\Debug\Morpion-.pdb
